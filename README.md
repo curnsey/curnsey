@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curnsey
 - 👀 I’m interested in an active lifestyle.
-- 🌱 I’m currently learning all sorts of things - Fortinet products, OWASP products, Azure.
+- 🌱 I’m currently learning all sorts of things - Fortinet products, OWASP products, Azure, Terraform.
 - 💞️ I’m looking to collaborate on very little since I have very little time.
 - 📫 DM on Github.
 
